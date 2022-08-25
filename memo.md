@@ -1,0 +1,7 @@
+# commands
+
+- versions
+
+```
+nodenv versions
+```
